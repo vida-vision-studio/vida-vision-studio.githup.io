@@ -1,0 +1,1 @@
+import{_ as e,o,c as s,a as t}from"./index-efdfaa5c.js";const c={},n=t("h1",null,"This is SolutionsView",-1),_=[n];function a(i,r){return o(),s("div",null,_)}const d=e(c,[["render",a]]);export{d as default};
